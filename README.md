@@ -18,3 +18,5 @@ Built an executive financial dashboard analysing multi-year revenue growth, EBIT
 
 ## Business Insights
 Converted financial statements into structured executive-level insights to evaluate growth sustainability and capital efficiency.
+
+![EBITDA Trend](ebitda_margin_trend.png)
